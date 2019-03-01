@@ -19,7 +19,7 @@ public class palindromeString {
 		
 		if(original.equals(reverse))
 			
-			System.out.println("String is palindrome");
+			System.out.println("String is palindrome1");
 		else
 			
 			System.out.println("String is not palindrome");
