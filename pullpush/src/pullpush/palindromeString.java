@@ -22,7 +22,7 @@ public class palindromeString {
 			System.out.println("String is palindrome1");
 		else
 			
-			System.out.println("String is not palindrome");
+			System.out.println("String is not palindrome2");
 		 
 			
 		
