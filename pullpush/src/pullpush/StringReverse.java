@@ -8,7 +8,7 @@ public class StringReverse {
 		
 
 		
-		String s="vijay1" ;
+		String s="vijay56" ;
 		
 		StringBuilder sb = new StringBuilder();
 		
