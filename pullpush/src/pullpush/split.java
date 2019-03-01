@@ -8,7 +8,7 @@ public class split {
 
 
 			
-			String s1="During the 1recent demos "  ;
+			String s1="During the 1recent demos12 "  ;
 			
 			String words[] =s1.split("\\s");
 			
